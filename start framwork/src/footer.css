@@ -1,0 +1,17 @@
+
+
+.bg{
+    background: #2C3E50;
+
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.ver-bg{
+    background: #1A252F;
+}
